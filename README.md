@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WMR88
-- 👀 Science and technology
+- 👀 Im interseted in Science and technology, Game engine architecture, 2D rendering.
 - 🌱 I’m currently learning Computer Programming.
 - 💞️ I’m looking to collaborate on Web development, Game engine architecture, 2D rendering.
 - 📫 How to reach me ...
