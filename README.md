@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WMR88
-- 👀 Im interseted in Science and technology, Game engine architecture, 2D rendering.
-- 🌱 I’m currently learning Computer Programming.
+- 👀 Im interseted in Web development, Science and technology, Game engine architecture, 2D rendering.
+- 🌱 I’m currently learning Computer science and Software engeneering.
 - 💞️ I’m looking to collaborate on Web development, Game engine architecture, 2D rendering.
 - 📫 How to reach me ...
 
